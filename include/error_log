@@ -1,0 +1,11 @@
+[07-Apr-2022 07:04:06 UTC] PHP Notice:  Undefined index: currency in /home/xiomstud/merchantunited.redrhinoz.com/include/cart.php on line 30
+[07-Apr-2022 07:04:06 UTC] PHP Notice:  Undefined index: currency in /home/xiomstud/merchantunited.redrhinoz.com/include/cart.php on line 59
+[07-Apr-2022 07:04:06 UTC] PHP Notice:  Undefined index: currency in /home/xiomstud/merchantunited.redrhinoz.com/include/cart.php on line 147
+[07-Apr-2022 07:04:06 UTC] PHP Notice:  Undefined index: currency in /home/xiomstud/merchantunited.redrhinoz.com/include/cart.php on line 150
+[07-Apr-2022 07:04:06 UTC] PHP Notice:  Undefined index: currency in /home/xiomstud/merchantunited.redrhinoz.com/include/cart.php on line 153
+[07-Apr-2022 07:04:06 UTC] PHP Notice:  Undefined index: currency in /home/xiomstud/merchantunited.redrhinoz.com/include/cart.php on line 156
+[07-Apr-2022 07:04:06 UTC] PHP Notice:  Undefined index: currency in /home/xiomstud/merchantunited.redrhinoz.com/include/cart.php on line 210
+[07-Apr-2022 07:04:06 UTC] PHP Notice:  Undefined index: currency in /home/xiomstud/merchantunited.redrhinoz.com/include/cart.php on line 239
+[07-Apr-2022 07:04:06 UTC] PHP Notice:  Undefined index: currency in /home/xiomstud/merchantunited.redrhinoz.com/include/cart.php on line 300
+[07-Apr-2022 07:04:06 UTC] PHP Notice:  Undefined index: currency in /home/xiomstud/merchantunited.redrhinoz.com/include/cart.php on line 302
+[07-Apr-2022 07:04:06 UTC] PHP Warning:  A non-numeric value encountered in /home/xiomstud/merchantunited.redrhinoz.com/include/cart.php on line 379
